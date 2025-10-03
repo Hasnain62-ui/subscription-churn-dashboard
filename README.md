@@ -40,4 +40,3 @@ Data is stored as a JSON array in `localStorage` under the key `startupMetricsDa
 * `churn` (Number)
 * `operatingExpenses` (Number)
 * `cashBalance` (Number)
-```eof
